@@ -1,9 +1,4 @@
 버그를 거두는 자
-```
 
-<br>
-<img src = "[https://i.namu.wiki/i/_UQbgxXhdVubvu6QAigY9WzwTqC2eL4QqBRHQLHWgqoqLeKbzQ-9xzWEo3MG6uR3RNRihsor8Z_aGD0MwOZ2mAZnFk8h89PC2XB37-P43pMl-YFCMhk5hUcSNuaGSFcqF31vCLmOYkiCFSitpIlUmQ.webp](https://postfiles.pstatic.net/MjAyNDAzMjdfMjgx/MDAxNzExNTAxNDMwNjQw.7mJR42cf3dJn5Nh_M106hG4Cfw_ll3hELA9YGKEve4Qg.pUgPTvj4Yf7yEzRSsG4T_lSod3AQdS3Ml8mdkFLu1DQg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%8C%8C%EC%9D%BC%EF%BC%BF20240327%EF%BC%BF010037.jpg?type=w773)](https://media.gq-magazine.co.uk/photos/5e442958995fbc00086126ad/16:9/w_1920%2Cc_limit/20191219-BTS-04.jpg)">
-<br>
-
-
+![screenshot_20171221-151714]([https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png](https://i.namu.wiki/i/9s3GqO_o-P_wS0zzYA1RUuUQRpKcve7vckw3l097xOYy03iEKc1VIm910j6y8TzPw939cJv4EUld8hIyfPb6rA.webp))
 
